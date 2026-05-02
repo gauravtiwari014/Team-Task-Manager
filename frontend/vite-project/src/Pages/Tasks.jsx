@@ -4,7 +4,7 @@ import {
   getTasks,
   createTask,
   updateTask
-} from "../services/api";
+} from "../Services/api";
 
 function Tasks() {
 
