@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import {
   getProjects,
   createProject
-} from "../services/api";
+} from "../Services/api";
 
 function Projects() {
 
